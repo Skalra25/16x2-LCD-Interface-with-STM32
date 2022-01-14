@@ -1,0 +1,13 @@
+main.c:81:13:changeSpeakerFrequency	120	static
+main.c:156:5:main	8	static
+main.c:202:6:SystemClock_Config	184	static
+main.c:266:13:MX_TIM1_Init	112	static
+main.c:346:13:MX_USART2_UART_Init	8	static
+main.c:381:13:MX_GPIO_Init	40	static
+main.c:421:6:acceptPasscode	16	static
+main.c:449:6:playAudioGrant	16	static
+main.c:471:6:playAudioDeny	16	static
+main.c:490:6:glowRedLED	8	static
+main.c:499:6:glowGreenLED	8	static
+main.c:510:5:accessPasscode	88	static
+main.c:529:6:Error_Handler	4	static,ignoring_inline_asm
